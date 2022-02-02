@@ -1,0 +1,6 @@
+LineIntersection Code
+RodStephens@vb-helper.com
+http://www.vb-helper.com/howto_intersect_lines.html
+https://stackoverflow.com/questions/2931573/determining-if-two-rays-intersect?rq=1
+https://github.com/pwalser75
+
