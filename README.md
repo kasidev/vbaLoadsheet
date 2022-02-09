@@ -1,2 +1,2 @@
 # vbaLoadsheet
-A simple Excell VBA application to generate a loadsheet for a passendger flight
+A simple Excell VBA application to generate a loadsheet for a passenger/cargo flight.
